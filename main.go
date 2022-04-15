@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github-action/microservice"
+	"github.com/Parshva28/github-action/tree/main/microservice"
 	"log"
 )
 
